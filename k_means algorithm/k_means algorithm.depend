@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447108401 source:/home/tonmoy/Desktop/k_means algorithm/main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

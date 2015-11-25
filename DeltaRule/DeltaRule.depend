@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445287859 source:/home/tonmoy/Desktop/DeltaRule/main.cpp
+	<iostream>
+	<stdio.h>
+

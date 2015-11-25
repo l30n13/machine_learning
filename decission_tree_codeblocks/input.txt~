@@ -1,0 +1,8 @@
+5 4
+gender cost travel transport
+m high car 1
+f medium train 0
+m low bus 1
+m high car 0
+f medium train 1
+all

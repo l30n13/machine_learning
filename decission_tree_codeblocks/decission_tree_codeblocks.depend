@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1447618701 source:/home/tonmoy/Desktop/decission_tree_codeblocks/main.cpp
+	<iostream>
+	<math.h>
+
+1447763145 source:/home/tonmoy/Desktop/Machine Learning/decission_tree_codeblocks/main.cpp
+	<iostream>
+	<math.h>
+
