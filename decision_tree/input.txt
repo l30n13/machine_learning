@@ -1,0 +1,29 @@
+10
+5
+gender car_ownership travel_cost income_level transportation_mode
+male 0 cheap low bus
+male 1 cheap medium bus
+female 0 cheap low bus
+male 1 cheap medium bus
+female 1 expensive high car
+male 2 expensive medium car
+female 2 expensive high car
+female 1 cheap medium train
+male 0 standard medium train
+female 1 standard medium train
+transportation_mode
+
+
+
+travel_cost gender car_ownership income_level transportation_mode
+cheap male 0 low bus
+cheap male 1 medium bus
+cheap female 0 low bus
+cheap male 1 medium bus
+expensive female 1 high car
+expensive male 2 medium car
+expensive female 2 high car
+cheap female 1 medium train
+standard male 0 medium train
+standard female 1 medium train
+transportation_mode
