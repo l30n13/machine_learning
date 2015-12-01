@@ -10,7 +10,7 @@ bool is_checked(int total, string searchString, string entropy[]);
 bool is_checked(int total, string searchString, string entropy[], string temp_checked[], int temp_count_checked[]);
 
 void differentEntropy(string checkingEntropy[], string checkingEntropyName, string baseEntropy[],
-                      string baseEntropyName, int total);
+                      string baseEntropyName, int to0tal);
 
 int count = 0, countEntropy = 0, count_checked[100];
 string checked[100], entropyName[100], decision_table[100][100], column_names[100];
